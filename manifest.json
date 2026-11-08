@@ -1,0 +1,11 @@
+{
+  "display_name": "RPG Engine",
+  "loading_order": 15,
+  "js": "index.js",
+  "css": "style.css",
+  "author": "RPG Engine Project",
+  "version": "0.2.0",
+  "homePage": "https://github.com/MeDerrito1/RPG-engine",
+  "auto_update": true,
+  "generate_interceptor": "rpgEnginePromptInterceptor"
+}
